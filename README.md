@@ -176,7 +176,7 @@ Available at: https://github.com/hanshendrickx/preventable-deaths-in-the-netherl
 
 ## References
 
-- Hendrickx, H. (1981). "Ongevallen in Ziekenhuizen." *Medisch Contact*, October 23, 1981.
+- Hendrickx, H. (1981). "Ongevallen in Ziekenhuizen." *Medisch Contact*, October 23, 1981: [https://www.medischcontact.nl/medisch-contact-10-3/tijdschrift-mc/23-okt-1981]
 - Hendrickx, H. Figshare Repository: [hanshendrickx](https://figshare.com/authors/hanshendrickx)
 - WHO Global Health Observatory. Avoidable Mortality Statistics.
 - OECD Health Statistics 2024.
